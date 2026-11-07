@@ -3,14 +3,14 @@
 **Disciplina:** Análise e Projeto de Sistemas (ADS252N01)  
 **Prazo:** 18/11/2026
 
-## Equipe
+67 Equipe
 
-**Nome do time:** ____________________  
-**Modelo escolhido:** ___ (1 a 5)
+**Nome do time:** Os mercenários 
+**Modelo escolhido:** 5 (1 a 5)
 
 | Nome | Usuário do GitHub |
-| --- | --- |
-|  |  |
+| Remulo A. Fernandes | --- |
+| Eduardo Metellis  |  |
 |  |  |
 |  |  |
 |  |  |
